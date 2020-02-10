@@ -1,0 +1,6 @@
+cd vector 
+
+npm install 
+
+npm run build
+
